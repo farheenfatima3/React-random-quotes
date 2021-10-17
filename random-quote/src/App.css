@@ -26,3 +26,13 @@ cite{
 .fab{
     margin-right: 0.3rem;
 }
+@media(max-width:600px){
+  
+.adj{
+    display:flex;
+    flex-grow:2;
+    flex-direction: column;
+    max-width: 100%;
+    
+}
+}

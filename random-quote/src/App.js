@@ -39,7 +39,7 @@ class App extends React.Component{
     document.querySelector("body").style.backgroundColor=color
         return(
             <div className="wrapper d-flex align-items-center justify-content-center">
-                <div className="text-center rounded col-6 p-4 bg-white">
+                <div className="text-center adj rounded col-6 p-4 bg-white">
                 <div>
                     {input.length>0 && 
                 <div>
