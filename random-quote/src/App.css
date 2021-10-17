@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400&display=swap');
+body{
+    font-family: 'Raleway', sans-serif;
+}
+cite{
+    display:flex;
+    justify-content: right;
+    margin-bottom: 0.5rem;
+    margin-top:0.5rem;
+}
+.wrapper{
+    height:100vh
+}
+.fa-quote-left{
+    opacity:0.6;
+    position:relative;
+    top:0px;
+    right:10px;
+}
+#text{
+    font-size: larger;
+}
+.fas{
+    margin-right: 0.5rem;
+}
+.fab{
+    margin-right: 0.3rem;
+}
